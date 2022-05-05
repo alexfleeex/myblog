@@ -1,24 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Пост о прошедшей неделе(02.05-08.05)"
+title: "Vsc"
 subtitle: ""
 summary: ""
-authors: [Ермолаев А.М.]
+authors: []
 tags: []
-categories: [Блог]
-date: 2022-05-05T22:52:44+03:00
-lastmod: 2022-05-05T22:52:44+03:00
+categories: []
+date: 2022-05-06T00:31:51+03:00
+lastmod: 2022-05-06T00:31:51+03:00
 featured: false
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: 'Nice photo'
-  focal_point: "Center"
-  placement: 2
+  caption: ""
+  focal_point: ""
   preview_only: false
 
 # Projects (optional).
@@ -28,4 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-На этой неделе я делал лаботраторные работы по ОС, и неделя закончилась.
