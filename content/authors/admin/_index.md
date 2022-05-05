@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Культуризм
+  - Программирование на Python и C++
+  - Футбол
+  - Рыболовный спорт
 
 # Education to show in About widget
 education:
