@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Алексей Ермолаев
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: студент Российского Университета Дружбы Народов
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: РУДН
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
