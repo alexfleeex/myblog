@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Alexey Ermolaev`s blog # Website name
-baseURL: 'https://shimmering-sunburst-d3c1b1.netlify.app' # Website URL
+baseURL: 'https://shimmering-sunburst-d3c1b1.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
