@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Vsc"
+title: "Управление версиями. Git"
 subtitle: ""
 summary: ""
-authors: []
+authors: [Ермолаев А.М.]
 tags: []
-categories: []
+categories: [Наука и образование]
 date: 2022-05-06T00:31:51+03:00
 lastmod: 2022-05-06T00:31:51+03:00
 featured: false
