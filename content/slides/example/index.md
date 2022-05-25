@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: An introduction to create static websites using HUGO
 authors: []
 tags: []
 categories: []
@@ -13,157 +13,83 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Wowchemy
+# Create static websites using HUGO
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[View site](https://shimmering-sunburst-d3c1b1.netlify.app/) | [Repository](https://github.com/alexfleeex/myblog)
 
 ---
 
-## Controls
+## Stages
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+1) Posting a blank for a personal website on Github pages.
+2) Add data about yourself to the site.
+3) Add achievements to the site.
+4) Add links to scientific and bibliometric resources to the site.
+5) Добавить с сайту все остальные элементы.
+6) Hosting a bilingual website on Github.
 
 ---
 
-## Code Highlighting
+## Stage 1
 
-Inline code: `variable`
-
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+- Install the necessary software.
+- Download the website theme template.
+- Post it on github hosting.
+- Set a parameter for the site Url.
+- Place the site's template on Github pages.
 
 ---
 
-## Math
+## Stage 2
 
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+- Post a photo of the site owner.
+- Post a brief description of the site owner (Biography).
+- Add information about Interests.
+- Add information from Education.
+- Make a post on the past week.
+- Add a post on a topic of your choice.
 
 ---
 
-A fragment can accept two optional parameters:
+## Stage 3
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
+- Add information about Skills.
+- Add information about the experience.
+- Add information about achievements (Accomplishments).
+- Make a post on the past week.
+- Add a post on a topic of your choice.
 
 ---
 
-## Themes
+## Stage 4
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+- Register on the relevant resources and post links to them on the website.
+- Make a post on the past week.
+- Add a post on a topic of your choice.
 
 ---
 
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
+## Stage 5
+
+- Make entries for personal projects.
+- Make a post on the past week.
+- Add a post on a topic of your choice.
+
 
 ---
 
-{{< slide background-image="/media/boards.jpg" >}}
+## Stage 6
 
-## Custom Slide
+- Make support for English and Russian languages.
+- Place site elements in both languages.
+- Post content in both languages.
+- Make a post on the past week.
+- Add a post on a topic of your choice (in two languages).
 
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
 
 ---
 
-## Custom CSS Example
+## Thank you for your attention!!!!
 
-Let's make headers navy colored.
 
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
----
-
-# Questions?
-
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+![all](https://camo.githubusercontent.com/c71fb25dd588f7c670936ad96af0acfac5fbfd40f580c13094b639e0c673ffc1/68747470733a2f2f637331322e70696b6162752e72752f706f73745f696d672f6269672f323032302f30382f32342f332f313539383233363731373139373332323433302e706e67)
