@@ -11,7 +11,7 @@ external_link: ''
 links:
   - icon: telegram
     icon_pack: fab
-    name: Follow
+    name:
     url: 'https://web.telegram.org'
 url_code: ''
 url_pdf: ''

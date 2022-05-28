@@ -40,56 +40,56 @@ slides:
 
 ---
 
-## Stage 2
+## Этап 2
 
-- Post a photo of the site owner.
-- Post a brief description of the site owner (Biography).
-- Add information about Interests.
-- Add information from Education.
-- Make a post on the past week.
-- Add a post on a topic of your choice.
-
----
-
-## Stage 3
-
-- Add information about Skills.
-- Add information about the experience.
-- Add information about achievements (Accomplishments).
-- Make a post on the past week.
-- Add a post on a topic of your choice.
+- Разместить фотографию владельца сайта.
+- Разместить краткое описание владельца сайта (Biography).
+- Добавить информацию об интересах (Interests).
+- Добавить информацию от образовании (Education).
+- Сделать пост по прошедшей неделе.
+- Добавить пост на тему по выбору.
 
 ---
 
-## Stage 4
+## Этап 3
 
-- Register on the relevant resources and post links to them on the website.
-- Make a post on the past week.
-- Add a post on a topic of your choice.
-
----
-
-## Stage 5
-
-- Make entries for personal projects.
-- Make a post on the past week.
-- Add a post on a topic of your choice.
-
+- Добавить информацию о навыках (Skills).
+- Добавить информацию об опыте (Experience).
+- Добавить информацию о достижениях (Accomplishments).
+- Сделать пост по прошедшей неделе.
+- Добавить пост на тему по выбору.
 
 ---
 
-## Stage 6
+## Этап 4
 
-- Make support for English and Russian languages.
-- Place site elements in both languages.
-- Post content in both languages.
-- Make a post on the past week.
-- Add a post on a topic of your choice (in two languages).
+- Добавить к сайту ссылки на научные и библиометрические ресурсы.
+- Сделать пост по прошедшей неделе.
+- Добавить пост на тему по выбору.
+
+---
+
+## Этап 5
+
+- Сделать записи для персональных проектов.
+- Сделать пост по прошедшей неделе.
+- Добавить пост на тему по выбору.
 
 
 ---
 
-## Thank you for your attention!!!!
+## Этап 6
+
+- Сделать поддержку английского и русского языков.
+- Разместить элементы сайта на обоих языках.
+- Разместить контент на обоих языках.
+- Сделать пост по прошедшей неделе.
+- Добавить пост на тему по выбору (на двух языках).
+
+
+---
+
+## Спасибо за внимание!!!!
 
 
 ![all](https://camo.githubusercontent.com/c71fb25dd588f7c670936ad96af0acfac5fbfd40f580c13094b639e0c673ffc1/68747470733a2f2f637331322e70696b6162752e72752f706f73745f696d672f6269672f323032302f30382f32342f332f313539383233363731373139373332323433302e706e67)
