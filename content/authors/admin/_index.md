@@ -14,7 +14,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Куй железо, не отходя от кассы.
 
 # Interests to show in About widget
 interests:

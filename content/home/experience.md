@@ -22,23 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Online C++ Programming Course
-    company: Yandex Academy
+  - title: Курс "Введение в программирование (C++)"
+    company: Академия Яндекса
     company_url: ''
     company_logo: ''
-    location: Russia
+    location: Российская Федерация
     date_start: '2021-10-20'
     date_end: '2021-12-10'
-    description: Got acquainted with the basics of C++ programming on the example of many simple practical problems.
+    description: Познакомился с основами программирования на C++ на примере многих простых практических задач.
 
-  - title: Online Python Programming Course
+  - title: Курс "Инди-курс программирования на Python от egoroff_channel"
     company: egoroffchannel
     company_url: ''
     company_logo: ''
-    location: Russia
+    location: Российская Федерация
     date_start: '2022-04-20'
     date_end: ''
-    description: The course is a series of sequential video tutorials that explain information in detail and in simple language. After each lesson you will have practical tasks to consolidate the material.
+    description: Курс представляет собой серию последовательных видеоуроков, которые объясняют информацию подробно и простым языком. После каждого урока у вас будут практические задания для закрепления материала.
 
 design:
   columns: '2'

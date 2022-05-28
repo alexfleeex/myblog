@@ -1,8 +1,8 @@
 ---
-title: Creating a static website
-summary: An example of creating a static website using HUGO.
+title: Создание статического сайта
+summary: Пример статиического сайта с использованием HUGO 
 tags:
-  - Website
+  - Наука и образование
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -28,10 +28,8 @@ slides: example
 
 ![hugo_logo](https://avatars.mds.yandex.net/get-entity_search/1727623/354834363/S122x122Fit_2x)
 
-Hugo is a static HTML and CSS website generator written in Go. It is optimized for speed, ease of use, and configurability. Hugo takes a directory with content and templates and renders them into a full HTML website.
+Hugo - это статический генератор веб-сайтов HTML и CSS, написанный на Go. Он оптимизирован для обеспечения скорости, простоты использования и возможности настройки. Хьюго берет каталог с контентом и шаблонами и превращает их в полноценный HTML-сайт.
 
-Hugo relies on Markdown files with front matter for metadata, and you can run Hugo from any directory. This works well for shared hosts and other systems where you don’t have a privileged account.
+Hugo полагается на файлы Markdown с исходным кодом для метаданных, и вы можете запустить Hugo из любого каталога. Это хорошо работает для общих хостов и других систем, где у вас нет привилегированной учетной записи.
 
-Hugo renders a typical website of moderate size in a fraction of a second. A good rule of thumb is that each piece of content renders in around 1 millisecond.
-
-Hugo is designed to work well for any kind of website including blogs, tumbles, and docs.
+Hugo рендерит типичный веб-сайт среднего размера за доли секунды. Хорошее эмпирическое правило заключается в том, что каждый фрагмент контента отображается примерно за 1 миллисекунду.

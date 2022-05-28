@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Achievements'
 subtitle:
 
 # Date format
@@ -27,9 +27,9 @@ item:
     date_end: '2021-12-10'
     date_start: '2021-10-20'
     description: ''
-    organization: Yandex Academy
+    organization: Академия Яндекса
     organization_url: https://stepik.org/course/363/syllabus
-    title: Introduction to Programming (C++)
+    title: Введение в программирование (С++)
     url: ''
 
 

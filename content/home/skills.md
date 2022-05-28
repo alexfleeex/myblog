@@ -19,15 +19,15 @@ feature:
   - description: 30%
     icon: code-solid
     icon_pack: custom
-    name: Coding
+    name: Программирование
   - description: 70%
     icon: comments-solid
     icon_pack: custom
-    name: Communication
+    name: Коммуникация
   - description: 70%
     icon: language-solid
     icon_pack: custom
-    name: Languages
+    name: Языки
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
