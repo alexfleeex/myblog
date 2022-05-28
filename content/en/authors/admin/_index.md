@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Алексей Ермолаев
+title: Ermolaev Alex
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: студент Российского Университета Дружбы Народов
+role: PFUR student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: РУДН
+  - name: PFUR
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Куй железо, не отходя от кассы.
+bio: Forge iron without leaving the cash register.
 
 # Interests to show in About widget
 interests:
-  - Культуризм
-  - Программирование на Python и C++
-  - Футбол
-  - Рыболовный спорт
+  - Bodybuilding
+  - Python and C++ coding
+  - Football
+  - Sport fishing
 
 # Education to show in About widget
 education:
   courses:
-    - course: Прикладная математика и информатика
-      institution: РУДН
+    - course: Applied Mathematics and Computer science
+      institution: PFUR
       year: 2021
 
 # Social/Academic Networking
@@ -71,8 +71,8 @@ email: ''
 highlight_name: true
 ---
 
-Родился 7.11.2003 и прожил все свои 18 лет в Москве.
+I was born on 7.11.2003 and lived all my 18 years in Moscow.
 
-<div style="text-align: justify">В 2021 году сдал ЕГЭ по математике(78), информатике(93), физике(95), русскому языку(92).  Благодаря своим баллам смог поступить на бюджет в Российский Университет Дружбы Народов на факультет физико-математических и естественных наук. В выборе сферы образования мой взгляд пал на направление «Прикладная математика и информатика». Сейчас я заканчиваю первый курс обучения на этом направлении. </div>
+<div style="text-align: justify">In 2021, I passed the Unified State Exam in mathematics (78), computer science (93), physics (95), Russian (92). Thanks to my scores, I was able to enroll on a budget at the Peoples' Friendship University of Russia at the Faculty of Physics, Mathematics and Natural Sciences. In choosing the field of education, my eye fell on the direction of "Applied Mathematics and Computer Science". Now I am finishing my first course of study in this direction. </div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
